@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://jqjjrkyq.github.io/sitemap.xml

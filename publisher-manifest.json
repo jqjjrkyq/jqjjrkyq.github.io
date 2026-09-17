@@ -1,0 +1,116 @@
+{
+  "version": 2,
+  "template_version": "7f09bfc43d72662de3f6",
+  "page_size": 20,
+  "site_id": "3dd1880a11e0db245a150e15",
+  "owner": "jqjjrkyq",
+  "repo": "jqjjrkyq.github.io",
+  "title": "网络加速服务",
+  "mode": "site",
+  "articles": [
+    {
+      "id": "b2e6d9d2a2f79115d1312265",
+      "a": "FastLink",
+      "b": "官网",
+      "entity": "FastLink",
+      "brand": "官网",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "1ae20edb5009ca2c95231de6d17c4677ad2a5fa8df02255b2fa3236ca293f485",
+      "content": {
+        "primary_entity": "FastLink",
+        "keyword1": "FastLink",
+        "keyword2": "官网",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备类型选择对应客户端，Windows、macOS、iOS、Android 和路由器各有适配版本，安装后导入订阅即可使用。",
+          "AI_CLIENTS_TITLE": "设备与客户端选择",
+          "AI_CLOSING_TEXT": "根据设备数量与流量需求选定版本，完成订阅配置即可开始使用。",
+          "AI_CLOSING_TITLE": "选好套餐，连接更顺畅",
+          "AI_DESCRIPTION": "，专注为需要稳定海外网络连接的用户提供多档套餐。基础版适合轻度使用，旗舰版平衡流量与设备数，团队版面向多设备高流量场景。按设备数量、月流量和预算挑选，配合对应客户端导入订阅即可。",
+          "AI_FEATURES_INTRO": "从使用场景出发，快速判断哪一档套餐更适合自己。",
+          "AI_FEATURES_TITLE": "套餐选择参考",
+          "AI_FEATURE_TEXT_1": "日常浏览与轻度流媒体选基础版，三台设备以内够用，按年付更划算。",
+          "AI_FEATURE_TEXT_2": "旗舰版适合同时使用多台设备、需要流媒体解锁和低延迟线路的用户。",
+          "AI_FEATURE_TEXT_3": "团队版支持更多设备同时在线，适合工作室或小型团队统一订阅。",
+          "AI_FEATURE_TITLE_1": "按设备数选",
+          "AI_FEATURE_TITLE_2": "按需求选",
+          "AI_FEATURE_TITLE_3": "按规模选",
+          "AI_GUIDE_INTRO": "按步骤确认套餐、核对设备要求并完成订阅导入。",
+          "AI_GUIDE_TITLE": "使用三步走",
+          "AI_HERO_INTRO": "FastLink 提供基础版、旗舰版和团队版三档方案，覆盖个人到团队的海外网络加速需求。结合设备数量、月流量与使用场景选定版本后，在对应客户端导入订阅即可开始使用。",
+          "AI_HERO_SUBTITLE": "多档套餐匹配不同设备场景",
+          "AI_HIGHLIGHT_1": "三档套餐按需选择",
+          "AI_HIGHLIGHT_2": "多设备同时在线支持",
+          "AI_HIGHLIGHT_3": "流媒体与专线优化线路",
+          "AI_PLANS_INTRO": "三档套餐覆盖不同设备数量与流量需求，按实际使用情况对比选择即可。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据设备数量和月流量需求，在基础版、旗舰版和团队版之间选定一档。",
+          "AI_STEP_TEXT_2": "查看所选套餐支持的设备类型与在线数量，确认自己的设备在覆盖范围内。",
+          "AI_STEP_TEXT_3": "在对应客户端中导入订阅信息，按客户端文档完成配置后即可连接使用。",
+          "AI_STEP_TITLE_1": "选定套餐",
+          "AI_STEP_TITLE_2": "核对设备适配",
+          "AI_STEP_TITLE_3": "导入订阅",
+          "AI_VISUAL_TITLE": "FastLink 海外加速器",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "基础版和旗舰版主要差别是什么？",
+          "AI_FAQ_ANSWER_1": "两档在月流量、同时在线设备数和线路类型上有区别。基础版适合轻量使用，旗舰版提供更多流量和专线优化，适合高频流媒体或游戏场景。",
+          "AI_FAQ_QUESTION_2": "一个订阅能同时在几台设备上使用？",
+          "AI_FAQ_ANSWER_2": "根据所选套餐不同，同时在线设备数量有所区别。超出限制可能导致连接失败，建议按实际终端数量选择对应档位。",
+          "AI_FAQ_QUESTION_3": "年付和月付哪种更合适？",
+          "AI_FAQ_ANSWER_3": "如果只是短期尝试，月付更灵活；如果确定长期使用，年付方案在多个档位下平均月成本更低，可以节省开支。",
+          "AI_FAQ_QUESTION_4": "如何把订阅导入到客户端？",
+          "AI_FAQ_ANSWER_4": "获取订阅信息后，打开对应系统的客户端，找到订阅导入入口并粘贴配置，保存后即可选择节点连接。具体步骤参考各客户端文档。",
+          "AI_FAQ_QUESTION_5": "团队版适合哪些使用场景？",
+          "AI_FAQ_ANSWER_5": "团队版支持较多设备同时在线和大流量使用，适合小型团队共享、多设备协作以及需要专属带宽和定制路由的场景。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "file_hashes": {
+    "index.html": "d02fe34a885f525acec7fa2f2164cd5130e004f7149b94d584f8d4ba7dc94703",
+    "sitemap.xml": "fc88816a22944b4a9cbfe4082a7b053a493d85aaa804035e639d9e03484b5205",
+    "robots.txt": "83fb4cbad19aa5c02fbf4708a1543416a59e14eb445d76ebabb4e8fe452813d3",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126"
+  },
+  "revision": "226c098aa544c182aed1874a7b59f85380489b633c9eab926be87d9ee1fa80cf"
+}
